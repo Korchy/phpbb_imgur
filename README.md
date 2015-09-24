@@ -12,17 +12,17 @@ Interface for phpbb forums to upload images on imgur
 .../forum/styles/prosilver.mod2/template/posting_buttons.html
 
 after:
-&lt;script type="text/javascript" src="{T_SUPER_TEMPLATE_PATH}/editor.js"&&lt;/script&qt;
+&lt;script type="text/javascript" src="{T_SUPER_TEMPLATE_PATH}/editor.js"&&lt;/script&gt;
 
 add:
-&lt;link href="{ROOT_PATH}imgur/imgur.css" type=text/css rel=stylesheet&qt;
-&lt;script type="text/javascript" src="{ROOT_PATH}imgur/imgur.js"&qt;&lt;/script&qt;
+&lt;link href="{ROOT_PATH}imgur/imgur.css" type=text/css rel=stylesheet&gt;
+&lt;script type="text/javascript" src="{ROOT_PATH}imgur/imgur.js"&gt;&lt;/script&gt;
 
 after:
-&lt;button type="button" accesskey="y" onclick="insert_listitem()" title="{L_BBCODE_LISTITEM_HELP}"&qt;[*]&lt;/button&qt;
+&lt;button type="button" accesskey="y" onclick="insert_listitem()" title="{L_BBCODE_LISTITEM_HELP}"&gt;[*]&lt;/button&gt;
 
 add:
-&lt;button type="button" onclick="UploadToImgurWindow(event)" title="{L_BBCODE_P_HELP}"&qt;Imgur&lt;/button&qt;
+&lt;button type="button" onclick="UploadToImgurWindow(event)" title="{L_BBCODE_P_HELP}"&gt;Imgur&lt;/button&gt;
 
 6. Now you hav "imgur" button to upload images to imgur.com from your phpbb forum.
 
