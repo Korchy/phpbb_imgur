@@ -1,0 +1,11 @@
+#ImgurUploadWindow{  
+	position: absolute;
+	z-index:100;
+	color: #000000;
+	border: solid #000000 1px;
+	border-radius: 4px;
+	background: #FFFFFF;
+	padding: 2px 5px;
+	overflow: hidden;
+	margin: -10px 0px 0px 20px;
+}
