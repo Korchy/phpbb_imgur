@@ -13,7 +13,7 @@ Interface for phpbb forums to upload images on imgur
 
 after:
 
-&lt;script type="text/javascript" src="{T_SUPER_TEMPLATE_PATH}/editor.js"&&lt;/script&gt;
+&lt;script type="text/javascript" src="{T_SUPER_TEMPLATE_PATH}/editor.js"&gt;&lt;/script&gt;
 
 add:
 
