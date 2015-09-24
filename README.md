@@ -1,8 +1,17 @@
 # phpbb_imgur
 Interface for phpbb forums to upload images on imgur
 
-#installation
+License:
+---
+Under license: CC-BY-SA
 
+Author:
+---
+Nikita Akimov
+korchiy@yandex.ru
+
+#installation
+---
 1. Create folder "imgur" in your forum directory (For example .../forum/imgur). Copy files to this folder.
 2. Register on imgur.com
 3. Create new application. Select "OAuth 2 autorization with a callback url", callback url set to imgurredirect.php. Get Client Id and Client secret.
