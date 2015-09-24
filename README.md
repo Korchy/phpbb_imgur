@@ -10,7 +10,7 @@ Author:
 Nikita Akimov
 korchiy@yandex.ru
 
-#installation
+Usage
 ---
 1. Create folder "imgur" in your forum directory (For example .../forum/imgur). Copy files to this folder.
 2. Register on imgur.com
