@@ -28,6 +28,8 @@ add:
 
 &lt;button type="button" onclick="UploadToImgurWindow(event)" title="{L_BBCODE_P_HELP}"&gt;Imgur&lt;/button&gt;
 
-6. Now you hav "imgur" button to upload images to imgur.com from your phpbb forum.
+
+
+Now you hav "imgur" button to upload images to imgur.com from your phpbb forum.
 
 <img src="http://i.imgur.com/mDpgGIr.jpg">
